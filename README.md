@@ -2,7 +2,6 @@ Análise de Dados e Dashboard
 
 ## 📖 Descrição
 
-*Este projeto foi motivado pela observação de um excedente populacional de animais durante as atividades de rotina no Biotério Nanci do Nascimento (IPEN-USP). A proposta inicial de otimizar a população gerou a necessidade de comprovar, através da análise de dados, a viabilidade de reduzir o número de animais mantendo uma margem de segurança.*
 
 O objetivo é demonstrar que essa otimização pode levar a benefícios diretos, como a redução de custos operacionais (ração, maravalha) e, principalmente, a diminuição da carga de trabalho para a equipe técnica.
 
