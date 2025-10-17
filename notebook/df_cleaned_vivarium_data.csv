@@ -1,0 +1,229 @@
+year,strain,sample_size,age_days,month_num,month_en
+2006,lit/scid,144,67.5,12,december
+2007,balb/c nude,180,70.0,3,march
+2007,swiss,75,31.5,8,august
+2007,balb/c nude,30,31.5,8,august
+2007,c57bl-6,100,56.0,10,october
+2007,swiss,96,60.0,10,october
+2007,balb/c nude,96,60.0,10,october
+2008,swiss,52,60.0,4,april
+2008,balb/c nude,52,60.0,12,december
+2009,swiss,5,56.0,8,august
+2009,balb/c,110,31.5,6,june
+2009,balb/c nude,100,31.5,6,june
+2009,balb/c,20,42.0,2,february
+2009,balb/c nude,51,42.0,2,february
+2009,swiss,60,31.5,2,february
+2009,swiss,72,31.5,2,february
+2010,balb/c nude,72,70.0,1,january
+2010,balb/c,36,56.0,12,december
+2010,swiss,40,120.0,12,december
+2010,balb/c nude,20,120.0,12,december
+2011,balb/c,24,77.0,7,july
+2011,balb/c,70,42.0,5,may
+2011,swiss,48,60.0,6,june
+2011,swiss,12,17.5,6,june
+2011,balb/c nude,12,17.5,6,june
+2011,balb/c,24,77.0,2,february
+2011,balb/c,36,20.0,7,july
+2012,balb/c,30,77.0,8,august
+2012,swiss,30,45.0,7,july
+2012,swiss,60,126.0,1,january
+2012,balb/c nude,36,126.0,1,january
+2012,swiss,50,126.0,4,april
+2012,swiss,48,45.0,3,march
+2012,swiss,120,126.0,3,march
+2012,balb/c nude,72,126.0,3,march
+2012,balb/c,91,126.0,1,january
+2012,balb/c nude,162,126.0,1,january
+2013,balb/c,12,42.0,9,september
+2013,balb/c nude,50,42.0,9,september
+2013,balb/c,32,42.0,11,november
+2013,balb/c,52,126.0,4,april
+2013,balb/c nude,54,126.0,4,april
+2013,swiss,100,60.0,3,march
+2013,balb/c nude,17,42.0,4,april
+2013,balb/c,45,42.0,4,april
+2013,balb/c,18,49.0,11,november
+2013,swiss,17,49.0,11,november
+2013,balb/c nude,54,42.0,11,november
+2013,swiss,78,38.5,12,december
+2014,c57bl-6,60,15.0,7,july
+2014,balb/c nude,210,70.0,3,march
+2014,lit/scid,64,50.0,7,july
+2014,lit/lit,64,50.0,7,july
+2014,balb/c nude,80,42.0,3,march
+2014,swiss,82,49.0,1,january
+2014,swiss,82,49.0,1,january
+2015,swiss,84,60.0,7,july
+2015,lit/lit,60,50.0,9,september
+2015,lit/scid,60,50.0,9,september
+2015,c57bl-6,5,50.0,9,september
+2015,scid,5,50.0,9,september
+2015,balb/c,20,63.0,8,august
+2015,balb/c nude,50,49.0,7,july
+2015,lit/lit,83,50.0,6,june
+2015,lit/scid,83,50.0,6,june
+2015,scid,10,50.0,6,june
+2015,c57bl-6,10,50.0,6,june
+2015,swiss,4,52.5,5,may
+2015,balb/c,90,66.5,5,may
+2015,balb/c nude,70,66.5,5,may
+2015,balb/c nude,210,70.0,3,march
+2015,c57bl-6,120,59.5,4,april
+2016,balb/c,60,49.0,4,april
+2016,balb/c,132,126.0,3,march
+2016,balb/c,132,105.0,3,march
+2016,swiss,60,70.0,11,november
+2016,balb/c,30,70.0,5,may
+2016,balb/c nude,35,70.0,5,may
+2016,balb/c,44,126.0,11,november
+2016,balb/c nude,24,126.0,11,november
+2016,c57bl-6,100,56.0,11,november
+2017,balb/c,60,70.0,6,june
+2017,balb/c nude,60,70.0,6,june
+2017,balb/c,20,126.0,3,march
+2017,scid,20,126.0,3,march
+2017,swiss,15,126.0,5,may
+2017,scid,12,126.0,11,november
+2017,swiss,12,90.0,11,november
+2017,balb/c,70,42.0,5,may
+2017,balb/c,85,56.0,5,may
+2017,c57bl-6,40,50.0,4,april
+2017,lit/scid,75,40.0,1,january
+2017,balb/c,136,56.0,2,february
+2017,balb/c nude,300,63.0,1,january
+2017,swiss,120,70.0,1,january
+2017,scid,140,56.0,12,december
+2017,balb/c,72,70.0,12,december
+2017,balb/c,60,70.0,1,january
+2017,scid,24,28.0,10,october
+2017,balb/c,60,70.0,8,august
+2017,scid,60,70.0,8,august
+2017,c57bl-6,30,49.0,7,july
+2018,c57bl-6,60,42.0,2,february
+2018,c57bl-6,10,28.0,1,january
+2018,balb/c,240,42.0,2,february
+2018,c57bl-6,65,42.0,2,february
+2018,balb/c,40,42.0,6,june
+2018,balb/c nude,63,42.0,12,december
+2020,balb/c nude,62,42.0,10,october
+2018,balb/c,20,35.0,11,november
+2018,balb/c nude,64,35.0,11,november
+2018,c57bl-6,60,42.0,10,october
+2018,c57bl-6,60,42.0,10,october
+2018,balb/c nude,9,42.0,2,february
+2018,balb/c nude,65,56.0,1,january
+2019,c57bl-6,6,49.0,1,january
+2019,balb/c,24,52.5,7,july
+2019,balb/c nude,24,52.5,7,july
+2019,balb/c,72,56.0,6,june
+2019,balb/c nude,154,56.0,6,june
+2019,c57bl-6,166,21.0,3,march
+2019,balb/c,22,56.0,3,march
+2019,scid,22,56.0,3,march
+2019,balb/c,168,42.0,3,march
+2019,c57bl-6,140,49.0,9,september
+2019,c57bl-6,40,70.0,8,august
+2019,c57bl-6,32,63.0,10,october
+2019,c57bl-6,32,63.0,10,october
+2020,c57bl-6,140,42.0,11,november
+2020,balb/c nude,30,70.0,10,october
+2020,c57bl-6,140,49.0,10,october
+2020,balb/c nude,103,56.0,10,october
+2020,balb/c nude,103,56.0,10,october
+2020,balb/c,256,42.0,3,march
+2020,balb/c nude,27,56.0,2,february
+2020,balb/c nude,27,56.0,8,august
+2021,balb/c nude,27,56.0,2,february
+2020,balb/c nude,27,56.0,2,february
+2020,balb/c nude,27,56.0,8,august
+2020,balb/c nude,27,56.0,10,october
+2020,balb/c nude,27,56.0,1,january
+2020,balb/c nude,27,56.0,2,february
+2020,balb/c nude,27,56.0,8,august
+2021,balb/c nude,27,56.0,10,october
+2021,c57bl-6,80,49.0,1,january
+2021,balb/c,48,49.0,4,april
+2021,balb/c,162,49.0,1,january
+2021,balb/c,100,60.0,1,january
+2021,swiss,100,60.0,1,january
+2021,swiss,338,42.0,11,november
+2021,balb/c nude,60,77.0,5,may
+2021,balb/c nude,35,56.0,5,may
+2021,c57bl-6,30,42.0,7,july
+2021,balb/c nude,60,77.0,7,july
+2021,balb/c nude,66,77.0,7,july
+2021,balb/c,56,126.0,5,may
+2021,scid,36,126.0,5,may
+2021,c57bl-6,30,42.0,7,july
+2021,balb/c,60,38.5,10,october
+2021,balb/c,60,35.0,10,october
+2021,balb/c nude,120,35.0,10,october
+2021,balb/c nude,60,77.0,12,december
+2021,balb/c nude,60,77.0,12,december
+2022,balb/c nude,60,77.0,6,june
+2021,balb/c nude,80,77.0,12,december
+2021,balb/c nude,80,77.0,12,december
+2021,balb/c nude,90,77.0,12,december
+2021,balb/c nude,80,77.0,12,december
+2021,balb/c nude,120,45.5,11,november
+2021,c57bl-6,16,30.0,10,october
+2021,lit/lit,64,30.0,10,october
+2021,c57bl-6,10,45.5,12,december
+2021,balb/c nude,48,70.0,10,october
+2021,balb/c,60,70.0,10,october
+2021,balb/c nude,36,70.0,10,october
+2021,balb/c,60,70.0,10,october
+2022,balb/c nude,50,77.0,8,august
+2022,balb/c,40,77.0,8,august
+2022,balb/c nude,50,77.0,8,august
+2022,c57bl-6,35,42.0,8,august
+2022,c57bl-6,35,42.0,8,august
+2022,c57bl-6,35,42.0,8,august
+2022,c57bl-6,24,56.0,4,april
+2022,lit/lit,40,30.0,4,april
+2022,balb/c nude,168,56.0,2,february
+2022,c57bl-6,21,56.0,2,february
+2022,balb/c nude,70,77.0,2,february
+2022,balb/c,30,126.0,12,december
+2022,scid,40,126.0,12,december
+2022,balb/c,50,70.0,11,november
+2022,scid,60,77.0,12,december
+2023,balb/c,36,56.0,4,april
+2022,c57bl-6,98,77.0,10,october
+2022,balb/c,36,49.0,9,september
+2022,balb/c,42,49.0,9,september
+2022,balb/c nude,108,49.0,9,september
+2022,balb/c,72,49.0,8,august
+2022,balb/c nude,45,77.0,8,august
+2023,balb/c nude,50,77.0,3,march
+2023,balb/c nude,50,77.0,3,march
+2023,balb/c nude,50,77.0,3,march
+2023,balb/c,40,35.0,10,october
+2023,scid,74,35.0,10,october
+2023,balb/c nude,80,84.0,9,september
+2023,balb/c nude,30,49.0,6,june
+2024,c57bl-6,50,56.0,7,july
+2023,balb/c nude,36,38.5,3,march
+2023,balb/c nude,50,77.0,3,march
+2024,c57bl-6,90,56.0,12,december
+2024,c57bl-6,30,56.0,12,december
+2024,balb/c nude,30,77.0,12,december
+2024,balb/c nude,30,77.0,12,december
+2024,balb/c,36,35.0,9,september
+2024,balb/c nude,40,42.0,9,september
+2024,balb/c nude,90,45.5,9,september
+2024,balb/c nude,40,49.0,8,august
+2024,balb/c nude,106,70.0,7,july
+2024,balb/c,108,70.0,6,june
+2024,balb/c,60,140.0,9,september
+2024,c57bl-6,30,70.0,5,may
+2024,balb/c nude,140,77.0,6,june
+2024,c57bl-6,60,70.0,5,may
+2024,balb/c nude,100,77.0,5,may
+2024,lit/lit,90,45.0,4,april
+2024,balb/c,90,49.0,3,march
+2024,balb/c,40,35.0,3,march
+2024,scid,28,35.0,3,march
+2024,balb/c nude,84,49.0,1,january
