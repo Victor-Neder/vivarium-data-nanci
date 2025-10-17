@@ -70,6 +70,4 @@ Analisar os dados históricos de solicitação de animais para identificar padr�
 
 ## 🖥️ Visualização (Dashboard)
 
-*(Aqui você pode adicionar uma ou duas screenshots do seu dashboard final)*
-
 ![Screenshot do Dashboard Principal](dashboards/screenshot_dashboard.png)
